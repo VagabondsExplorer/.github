@@ -84,7 +84,11 @@ Discover the power of collaboration, learn to leverage free and innovative tools
     
 ## 🌐 Open-Source Commitment
 
-
+## 🌐 Roadmap
+ - [Phase 1 (Low-Density)] idealism lands and inspire the Society setup for a new paradigm 
+Alliances can be established, promoted, curated and developed in a pragmatic way as a nodes in a physical space: COLIVING
+ - [Phase 2 (Mid-Density, Small Condensation)] Nodes have started to ‘contaminate’ the wider society, the interaction with the territory, existing values, laws, religion or beliefs in a physical space
+ - [Phase 3 (High-Density, Large Condensation)] It’s time to ensure the opportunity for a gradual societal improvement 
 
 ## 🙌 Get Involved
   - [**Telegram Vagabonds base camp**](https://t.me/+w6pECkn8WYdmNzg0)
