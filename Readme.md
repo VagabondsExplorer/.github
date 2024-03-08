@@ -48,8 +48,10 @@ Discover the power of collaboration, learn to leverage free and innovative tools
 - **Slides - Educational**
     - [**WTF is Bitcoin**](https://github.com/VagabondsExplorer/Resources/blob/main/WTFisBTC_LiBpresentation.svg)
     - [**Coliving & countereconomy**](https://github.com/VagabondsExplorer/Resources)
+    - [**Unveiling Insights into Blockchain and Bitcoin**](https://vagabonds.undervan.me/2022/11/20/exploring-blockchain-bitcoin/)
  - **Open code branding**
     - [**Elegant social media logo/icons**](https://github.com/VagabondsExplorer/Resources/blob/main/elegant_social_media_sizes.html)
+    - [**Media standard sizes**](https://github.com/VagabondsExplorer/Resources/blob/main/webMediasizes.tar.xz)
     - [**Open code specifications**](https://github.com/VagabondsExplorer/Resources/blob/main/specifications.html) 
     - [**Paper Lamp DIY with QRcode**](https://github.com/VagabondsExplorer/Resources/blob/main/PaperlampA4.svg)
     - [**Telegram GIFS**](https://github.com/VagabondsExplorer/Resources/)
@@ -92,4 +94,8 @@ Discover the power of collaboration, learn to leverage free and innovative tools
   - [**Nostr**] npub17xrq2:uaarc
   - [**Leave a tip**](https://getalby.com/p/undervan)
 
-
+References:
+[**Agorism**](https://agorist.xyz/)
+[**DarkFi**](https://dark.fi/)
+[**Lunarpunk**](https://lunardao.net/index.html)
+[**RMS**](https://stallman.org/)
