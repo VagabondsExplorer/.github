@@ -88,8 +88,8 @@ Discover the power of collaboration, learn to leverage free and innovative tools
   - [**Telegram Vagabonds base camp**](https://t.me/+w6pECkn8WYdmNzg0)
   - [**Telegram Vagabonds news**](https://t.me/+f6V0gjlYTsRmM2Y0) 
   - [**Accommodation-we accept Bitcoin**](https://vagabonds.undervan.me/booking-form/)
-  - [**e-mail**] vagabonds.nomad@gmail.com
-  - [**Nostr**](npub17xrq2:uaarc)
+  - [**email**] vagabonds.nomad@gmail.com
+  - [**Nostr**] npub17xrq2:uaarc
   - [**Leave a tip**](https://getalby.com/p/undervan)
 
 
