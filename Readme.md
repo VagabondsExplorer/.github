@@ -49,25 +49,25 @@ Discover the power of collaboration, learn to leverage free and innovative tools
     - [**WTF is Bitcoin**](https://github.com/VagabondsExplorer/Resources/blob/main/WTFisBTC_LiBpresentation.svg)
     - [**Coliving & countereconomy**](https://github.com/VagabondsExplorer/Resources)
  - **Open code branding**
-    -[**Elegant social media logo/icons**](https://github.com/VagabondsExplorer/Resources/blob/main/elegant_social_media_sizes.html)
-    -[**Open code specifications**](https://github.com/VagabondsExplorer/Resources/blob/main/specifications.html) 
-    -[**Paper Lamp DIY with QRcode**](https://github.com/VagabondsExplorer/Resources/blob/main/PaperlampA4.svg)
-    -[**Telegram GIFS**](https://github.com/VagabondsExplorer/Resources/)
+    - [**Elegant social media logo/icons**](https://github.com/VagabondsExplorer/Resources/blob/main/elegant_social_media_sizes.html)
+    - [**Open code specifications**](https://github.com/VagabondsExplorer/Resources/blob/main/specifications.html) 
+    - [**Paper Lamp DIY with QRcode**](https://github.com/VagabondsExplorer/Resources/blob/main/PaperlampA4.svg)
+    - [**Telegram GIFS**](https://github.com/VagabondsExplorer/Resources/)
   - **Gamification** 
-  [**SAMPLE_Quiz**](https://vagabonds.undervan.me/quiz/MiniQuizz/)
-    -[**mini-Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/MiniQuizz.zip)
-    -[**Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/VagaQuizz_V6.zip)
-    -[**AI games**](https://github.com/VagabondsExplorer/Resources/)
+    - [**SAMPLE_Quiz**](https://vagabonds.undervan.me/quiz/MiniQuizz/)
+        - [**mini-Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/MiniQuizz.zip)
+        - [**Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/VagaQuizz_V6.zip)
+        - [**AI games**](https://github.com/VagabondsExplorer/Resources/)
 
 ## 🤝 Blog and Events
 
 - **Blog**: Articles amplify our impact and reach.
-    -[**Createc'21**](https://undervan.me/createc21/)
-    -[**Metodologia de Proyectos**](https://undervan.me/metodologia-de-proyectos/)
-    -[**Incubating Alternatura**](https://undervan.me/undervan-con-alternatura/)
-    -[**Cryptography & Merkle's vision**](https://undervan.me/new-form-of-life/)
-    -[**Panopticon**](https://undervan.me/panopticon/)
-    -[**Blockchain week with McAfee**](https://undervan.me/john-mcafee-gives-speech-at-the-barcelona-blockchain-week-2019/)
+  - [**Createc'21**](https://undervan.me/createc21/)
+  - [**Metodologia de Proyectos**](https://undervan.me/metodologia-de-proyectos/)
+  - [**Incubating Alternatura**](https://undervan.me/undervan-con-alternatura/)
+  - [**Cryptography & Merkle's vision**](https://undervan.me/new-form-of-life/)
+  - [**Panopticon**](https://undervan.me/panopticon/)
+  - [**Blockchain week with McAfee**](https://undervan.me/john-mcafee-gives-speech-at-the-barcelona-blockchain-week-2019/)
 - **Events**:
   - [**Bitcoin 360 Tenerife South**](https://2140meetups.com/meetup/7161/)
   - [**Fira Catalana de Blockchain**](https://www.bxcat.cat/)
@@ -85,11 +85,11 @@ Discover the power of collaboration, learn to leverage free and innovative tools
 
 
 ## 🙌 Get Involved
-[**Telegram Vagabonds base camp**](https://t.me/+w6pECkn8WYdmNzg0)
-[**Telegram Vagabonds news**](https://t.me/+f6V0gjlYTsRmM2Y0) 
-[**Accommodation-we accept Bitcoin**](https://vagabonds.undervan.me/booking-form/)
-[**e-mail**] vagabonds.nomad@gmail.com
-[**Nostr**](npub17xrq2:uaarc)
-[**Leave a tip**](https://getalby.com/p/undervan)
+  - [**Telegram Vagabonds base camp**](https://t.me/+w6pECkn8WYdmNzg0)
+  - [**Telegram Vagabonds news**](https://t.me/+f6V0gjlYTsRmM2Y0) 
+  - [**Accommodation-we accept Bitcoin**](https://vagabonds.undervan.me/booking-form/)
+  - [**e-mail**] vagabonds.nomad@gmail.com
+  - [**Nostr**](npub17xrq2:uaarc)
+  - [**Leave a tip**](https://getalby.com/p/undervan)
 
 
