@@ -9,7 +9,7 @@ Welcome to the GitHub repository for [Vagabonds](https://vagabonds.undervan.me/)
 Our experiences [Experiences](https://vagabonds.undervan.me/experiences-services-activities-tech/#experiences-tenerife) Immersive experiences in the island’s vibrant culture and awe-inspiring landscapes. 
 - **Community Engagement**: 
 <br>Through our [2140Bitcoin Meetups](https://2140meetups.com/comunidad/6856/), we engage crypto community in Tenerife \<br>
-<br>Thorough our [Crypto/web3 freaks Tenerife Telegram group](https://t.me/+yoREyEBRsLJiZTg0), as admin we engage crypto community in Tenerife \<br>
+Thorough our [Crypto/web3 freaks Tenerife Telegram group](https://t.me/+yoREyEBRsLJiZTg0), as admin we engage crypto community in Tenerife \<br>
 Thorough our collaboration with: 
 [Barcelona BTC team](https://t.me/+yoREyEBRsLJiZTg0)
 [PeachBitcoin team](https://peachbitcoin.com) as a "Pirate beach - BTC tenerife" node
