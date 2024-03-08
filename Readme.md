@@ -19,13 +19,13 @@ Welcome to the GitHub repository for [Vagabonds](https://vagabonds.undervan.me/)
 - **Workshops**: Step into Vagabonds Coliving Space, where empowering workshops delve into the world of blockchain, Bitcoin, and free software. We simplify complex concepts using real-life experiences, resonating with common sense to promote holistic well-being. Join us on a transformative journey, unlocking the potential of digital innovation together.
  - [Blockchain and Bitcoin](https://vagabonds.undervan.me/workshops-technology-digital-innovation/) 
 Gain practical insights, understand the fundamentals, and navigate the ever-evolving digital landscape.
-     - Blockchain fundamentals
+    - Blockchain fundamentals
     - Bitcoin Store integration
     - Manage Bitcoin
     - Bitcoin Vault
  - [Open-source software](https://vagabonds.undervan.me/workshops-technology-digital-innovation/) 
 Discover the power of collaboration, learn to leverage free and innovative tools, and embrace the spirit of community-driven development.
-     - AI for begineers
+    - AI for begineers
     - DeFI for beginners
     - 2D Graphics
     - Streaming
@@ -46,17 +46,38 @@ Discover the power of collaboration, learn to leverage free and innovative tools
 
 ## 📚 Key Resources & Educational Content
 - **Slides - Educational**
-    -[WTF is Bitcoin] (
-    -[Coliving & countereconomy]
-- **Open code branding**
-    -[Elegant social media logo/icons]
-    -[open code specifications]
-    -[Paper Lamp DIY with QRcode]
-    -[Telegram GIFS]
-- **Gamification**    
-    -[Quiz] [miniQuiz]
-    -[AI games]
-    
+    - [**WTF is Bitcoin**](https://github.com/VagabondsExplorer/Resources/blob/main/WTFisBTC_LiBpresentation.svg)
+    - [**Coliving & countereconomy**](https://github.com/VagabondsExplorer/Resources)
+ - **Open code branding**
+    -[**Elegant social media logo/icons**](https://github.com/VagabondsExplorer/Resources/blob/main/elegant_social_media_sizes.html)
+    -[**Open code specifications**](https://github.com/VagabondsExplorer/Resources/blob/main/specifications.html) 
+    -[**Paper Lamp DIY with QRcode**](https://github.com/VagabondsExplorer/Resources/blob/main/PaperlampA4.svg)
+    -[**Telegram GIFS**](https://github.com/VagabondsExplorer/Resources/)
+  - **Gamification** 
+  [**SAMPLE_Quiz**](https://vagabonds.undervan.me/quiz/MiniQuizz/)
+    -[**mini-Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/MiniQuizz.zip)
+    -[**Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/VagaQuizz_V6.zip)
+    -[**AI games**](https://github.com/VagabondsExplorer/Resources/)
+
+## 🤝 Blog and Events
+
+- **Blog**: Articles amplify our impact and reach.
+    -[**Createc'21**](https://undervan.me/createc21/)
+    -[**Metodologia de Proyectos**](https://undervan.me/metodologia-de-proyectos/)
+    -[**Incubating Alternatura**](https://undervan.me/undervan-con-alternatura/)
+    -[**Cryptography & Merkle's vision**](https://undervan.me/new-form-of-life/)
+    -[**Panopticon**](https://undervan.me/panopticon/)
+    -[**Blockchain week with McAfee**](https://undervan.me/john-mcafee-gives-speech-at-the-barcelona-blockchain-week-2019/)
+- **Events**:
+  - [**Bitcoin 360 Tenerife South**](https://2140meetups.com/meetup/7161/)
+  - [**Fira Catalana de Blockchain**](https://www.bxcat.cat/)
+  - [**Conscious Future with Bitcoin**](https://2140meetups.com/meetup/6949/)
+  - [**Roundtable & Bitcoin Sunset**](https://2140meetups.com/meetup/6894/)
+  - [**Exploring Decentralization**](https://vagabonds.undervan.me/2023/09/25/conscious-future/) 
+  - [**Digital art**](https://vagabonds.undervan.me/2023/06/18/digital-art-recycling-technologies-and-3d-printing/)
+  - [**Embracing Technological Change**](https://vagabonds.undervan.me/2022/12/22/positive-future-mindset/)
+  - [**Real Crypto Events for Knowledge Exchange**](https://vagabonds.undervan.me/2022/11/14/empowering-crypto-events-tenerife/)
+  - [**Barcelona Blockchain week**](https://undervan.me/democracy-for-all-at-the-barcelona-blockchain-week/) 
 
     
 ## 🌐 Open-Source Commitment
@@ -64,5 +85,11 @@ Discover the power of collaboration, learn to leverage free and innovative tools
 
 
 ## 🙌 Get Involved
+[**Telegram Vagabonds base camp**](https://t.me/+w6pECkn8WYdmNzg0)
+[**Telegram Vagabonds news**](https://t.me/+f6V0gjlYTsRmM2Y0) 
+[**Accommodation-we accept Bitcoin**](https://vagabonds.undervan.me/booking-form/)
+[**e-mail**] vagabonds.nomad@gmail.com
+[**Nostr**](npub17xrq2:uaarc)
+[**Leave a tip**](https://getalby.com/p/undervan)
 
 
