@@ -39,14 +39,27 @@ Discover the power of collaboration, learn to leverage free and innovative tools
     - Collaboration with local entrepreneurs in economic self-sustainability and sovereignty empowerment
     - Supporting young entrepreneurs: empowering individuals and future generations of digital nomads
     - Supporting financially the access of young entrepreneurs to a coliving lifestyle
-    - Collaboraton with entrepreneurs to grow the network
+    - Collaboration with entrepreneurs to grow the network
     - Sharing resources to create self-sustainable colivings
+    - Projects: Positive Future, Connectivism, NetworkStates MVP, Community hub
 
 
 ## 📚 Key Resources & Educational Content
+- **Slides - Educational**
+    -[WTF is Bitcoin] (
+    -[Coliving & countereconomy]
+- **Open code branding**
+    -[Elegant social media logo/icons]
+    -[open code specifications]
+    -[Paper Lamp DIY with QRcode]
+    -[Telegram GIFS]
+- **Gamification**    
+    -[Quiz] [miniQuiz]
+    -[AI games]
+    
 
-
-## 🌐 Donors & Open-Source Commitment
+    
+## 🌐 Open-Source Commitment
 
 
 
