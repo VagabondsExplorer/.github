@@ -95,7 +95,6 @@ Alliances can be established, promoted, curated and developed in a pragmatic way
   - [**Telegram Vagabonds news**](https://t.me/+f6V0gjlYTsRmM2Y0) 
   - [**Accommodation-we accept Bitcoin**](https://vagabonds.undervan.me/booking-form/)
   - [**email**] vagabonds.nomad@gmail.com
-  - [**Nostr**] npub17xrq2:uaarc
   - [**Leave a tip**](https://getalby.com/p/undervan)
 
 References:
