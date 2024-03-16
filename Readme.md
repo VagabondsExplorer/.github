@@ -17,13 +17,13 @@ Welcome to the GitHub repository for [Vagabonds](https://vagabonds.undervan.me/)
     - [**Cocohub Community**](https://cocohub.io/europe/spain/tenerife/vagabonds)
  
 - **Workshops**: Step into Vagabonds Coliving Space, where empowering workshops delve into the world of blockchain, Bitcoin, and free software. We simplify complex concepts using real-life experiences, resonating with common sense to promote holistic well-being. Join us on a transformative journey, unlocking the potential of digital innovation together.
- - [Blockchain and Bitcoin](https://vagabonds.undervan.me/workshops-technology-digital-innovation/) 
+ - [Blockchain and Bitcoin](https://vagabonds.undervan.me/workshops-technology-digital-innovation/#blockchain-bitcoin) 
 Gain practical insights, understand the fundamentals, and navigate the ever-evolving digital landscape.
     - Blockchain fundamentals
     - Bitcoin Store integration
     - Manage Bitcoin
     - Bitcoin Vault
- - [Open-source software](https://vagabonds.undervan.me/workshops-technology-digital-innovation/) 
+ - [Open-source software](https://vagabonds.undervan.me/workshops-technology-digital-innovation/#open-source)
 Discover the power of collaboration, learn to leverage free and innovative tools, and embrace the spirit of community-driven development.
     - AI for begineers
     - DeFI for beginners
