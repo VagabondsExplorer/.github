@@ -82,13 +82,18 @@ Discover the power of collaboration, learn to leverage free and innovative tools
   - [**Barcelona Blockchain week**](https://undervan.me/democracy-for-all-at-the-barcelona-blockchain-week/) 
 
     
-## 🌐 Open-Source Commitment
 
 ## 🌐 Roadmap
  - [**Phase 1 (Low-Density)**] idealism lands and inspire the Society setup for a new paradigm 
 Alliances can be established, promoted, curated and developed in a pragmatic way as a nodes in a physical space: COLIVING
  - [**Phase 2 (Mid-Density, Small Condensation)**] Nodes have started to ‘contaminate’ the wider society, the interaction with the territory, existing values, laws, religion or beliefs in a physical space
- - [**Phase 3 (High-Density, Large Condensation)**] It’s time to ensure the opportunity for a gradual societal improvement 
+ - [**Phase 3 (High-Density, Large Condensation)**] It’s time to ensure the opportunity for a gradual societal improvement
+ 
+## 🌐 Open-Source Commitment
+At Vagabonds, we believe in the transformative power of Bitcoin and blockchain technology. Our unique methodology and vision allow us to introduce these concepts to everyone, from staff and guests to collaborators, creating an inclusive and immersive experience for all.
+By joining the Vagabonds Coliving network, you will become part of a decentralized community spanning the globe
+ - [**Become a Vagabonds coliving node**](https://vagabonds.undervan.me/white-hat-manager/) 
+
 
 ## 🙌 Get Involved
   - [**Telegram Vagabonds base camp**](https://t.me/+w6pECkn8WYdmNzg0)
