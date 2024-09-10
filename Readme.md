@@ -102,8 +102,8 @@ By joining the Vagabonds Coliving network, you will become part of a decentraliz
 
 
 ## 🙌 Get Involved
-  - [**Telegram Vagabonds news**](https://t.me/+f6V0gjlYTsRmM2Y0) 
-  - [**Accommodation-we accept Bitcoin**](https://vagabonds.undervan.me/booking-form/)
+  - [**Telegram group**](https://t.me/+f6V0gjlYTsRmM2Y0) 
+  - [**Contact form**](https://vagabonds.undervan.me/booking-form/)
   - [**email**] vagabonds.nomad@gmail.com
   - [**Leave a tip**](https://getalby.com/p/undervan)
 
