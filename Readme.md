@@ -81,12 +81,12 @@ Discover the power of collaboration, learn to leverage free and innovative tools
   - [**Real Crypto Events for Knowledge Exchange**](https://vagabonds.undervan.me/2022/11/14/empowering-crypto-events-tenerife/)
   - [**Barcelona Blockchain week**](https://undervan.me/democracy-for-all-at-the-barcelona-blockchain-week/)
 - **Videos**:
-  -[**Astrid Part 1: Physical health**](https://youtu.be/tcRNg0Gvyrg?si=fcjqdvRetBQLLdYQ)
-  -[**Astrid Part 2: Proof of love**](https://youtu.be/wUxOv-EEH9I?si=8SekOdFox980wSQe)
-  -[**Astrid Part 3: Started with libraries**](https://youtu.be/Vr64B_KXH9s?si=R-NCYW4pwlO2YZGU)
-  -[**Astrid Part 4: Agorism**](https://youtu.be/xrfMT_V2N6E?si=QwE-UpRx-cA34yk8)
-  -[**Astrid Part 5: Unperfection**](https://youtu.be/1AlSQgZe0HQ?si=cZiUgkunPSHAP6PD)
-  -[**Astrid Part 6: Connectivity**](https://youtu.be/nL6i_mpppew?si=Q7h12-ZRx3CEOBCK)
+  - [**Astrid Part 1: Physical health**](https://youtu.be/tcRNg0Gvyrg?si=fcjqdvRetBQLLdYQ)
+  - [**Astrid Part 2: Proof of love**](https://youtu.be/wUxOv-EEH9I?si=8SekOdFox980wSQe)
+  - [**Astrid Part 3: Started with libraries**](https://youtu.be/Vr64B_KXH9s?si=R-NCYW4pwlO2YZGU)
+  - [**Astrid Part 4: Agorism**](https://youtu.be/xrfMT_V2N6E?si=QwE-UpRx-cA34yk8)
+  - [**Astrid Part 5: Unperfection**](https://youtu.be/1AlSQgZe0HQ?si=cZiUgkunPSHAP6PD)
+  - [**Astrid Part 6: Connectivity**](https://youtu.be/nL6i_mpppew?si=Q7h12-ZRx3CEOBCK)
   
 
     
