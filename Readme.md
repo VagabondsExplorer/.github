@@ -88,9 +88,7 @@ Discover the power of collaboration, learn to leverage free and innovative tools
   - [**Astrid Part 5: Unperfection**](https://youtu.be/1AlSQgZe0HQ?si=cZiUgkunPSHAP6PD)
   - [**Astrid Part 6: Connectivity**](https://youtu.be/nL6i_mpppew?si=Q7h12-ZRx3CEOBCK)
   
-
-    
-
+ 
 ## 🌐 Roadmap
  - [**Phase 1 (Low-Density)**] idealism lands and inspire the Society setup for a new paradigm 
 Alliances can be established, promoted, curated and developed in a pragmatic way as a nodes in a physical space: COLIVING
@@ -104,15 +102,14 @@ By joining the Vagabonds Coliving network, you will become part of a decentraliz
 
 
 ## 🙌 Get Involved
-  - [**Telegram Vagabonds base camp**](https://t.me/+w6pECkn8WYdmNzg0)
   - [**Telegram Vagabonds news**](https://t.me/+f6V0gjlYTsRmM2Y0) 
   - [**Accommodation-we accept Bitcoin**](https://vagabonds.undervan.me/booking-form/)
   - [**email**] vagabonds.nomad@gmail.com
   - [**Leave a tip**](https://getalby.com/p/undervan)
 
 References:
-[**Agorism**](https://agorist.xyz/)
-[**DarkFi**](https://dark.fi/)
-[**Lunarpunk**](https://lunardao.net/index.html)
-[**RMS**](https://stallman.org/)
-[**A declaration of the Independence of Cyberspace**](https://www.eff.org/cyberspace-independence/)
+- [**Agorism**](https://agorist.xyz/)
+- [**DarkFi**](https://dark.fi/)
+- [**Lunarpunk**](https://lunardao.net/index.html)
+- [**RMS**](https://stallman.org/)
+- [**A declaration of the Independence of Cyberspace**](https://www.eff.org/cyberspace-independence/)
