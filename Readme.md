@@ -7,7 +7,8 @@ Welcome to the GitHub repository for [Vagabonds](https://vagabonds.undervan.me/)
 - **Mission**: Empower individuals and communities with Coliving experience and comprehensive free-software and Bitcoin knowledge.
 - [**CALL_to_ACTION**:](https://vagabonds.undervan.me/experiences-services-activities-tech/experiences-tenerife) Our activities
     - [Cryptoactivities](https://vagabonds.undervan.me/experiences-services-activities-tech/#crypto-activities) a place for a growing community interested in decentralised projects and events and a common point to share everything by social media platforms and our blog for the latest updates on crypto events, articles, and open-source content.
-    - [Experiences](https://vagabonds.undervan.me/experiences-services-activities-tech/#experiences-tenerife) Immersive experiences in the island’s vibrant culture and awe-inspiring landscapes. 
+    - [Experiences](https://vagabonds.undervan.me/experiences-services-activities-tech/#experiences-tenerife) Immersive experiences in the island’s vibrant culture and awe-inspiring landscapes.
+    - [Pop-up coliving] Nomad space, a popup coliving that offers private room, a space to share, a place to innovate and a community of nomads.
 
 - **Community Engagement**: 
     - [**2140Bitcoin Meetups**](https://2140meetups.com/comunidad/6856/), we engage crypto community in Tenerife.
