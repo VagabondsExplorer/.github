@@ -61,7 +61,10 @@ Discover the power of collaboration, learn to leverage free and innovative tools
         - [**mini-Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/MiniQuizz.zip)
         - [**Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/VagaQuizz_V6.zip)
         - [**AI games**](https://github.com/VagabondsExplorer/Resources/)
-
+  - **AI Art**
+        - [**Bitcoin vision**]
+        - [**Dimension tunnel**]
+     
 ## 🤝 Blog, Events, videos
 
 - **Blog**: Articles amplify our impact and reach.
