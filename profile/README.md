@@ -60,6 +60,28 @@ Discover the power of collaboration, learn to leverage free and innovative tools
         - [**mini-Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/MiniQuizz.zip)
         - [**Quiz**](https://github.com/VagabondsExplorer/Resources/blob/main/VagaQuizz_V6.zip)
         - [**AI games**](https://github.com/VagabondsExplorer/Resources/)
+ - **AI art** 
+    - [**Bitcoin vision**]
+        - [**Quantum Bitcoin Cockpit**]([https://github.com/VagabondsExplorer/Resources/blob/main/BACKGROUNDcockpit.html])
+        - [**Bitcoin Background - Economic Multiverses**]([https://github.com/VagabondsExplorer/Resources/blob/main/BACKGROUNDECO.html])
+    - [**Dimension tunnel**]
+      - [**Soft Color Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelFlatDesign.html)  
+          *Hypnotic pastel tunnel with fluid Canvas animations*
+      - [**Psychedelic Hyperspace Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelwebgl.html)  
+          *WebGL interdimensional journey with glitch effects*
+      - [**Psychedelic Pixel Art Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelPixelArt.html)  
+          *Retro pixel-art tunnel with vibrant geometry*
+      - [**Psychedelic Isometric Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelIsometric.html)  
+          *3D isometric cube tunnel with dynamic lighting*
+      - [**Psychedelic Hyperspace Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelLineArt.html)  
+          *Minimalist line-art tunnel with high contrast*
+     
+        - tunelFlatDesign.html
+    ├── tunelwebgl.html
+    ├── tunelPixelArt.html
+    ├── tunelIsometric.html
+    └── tunelLineArt.html
+          
 
 ## 🤝 Blog and Events
 
