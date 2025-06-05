@@ -66,7 +66,7 @@ Discover the power of collaboration, learn to leverage free and innovative tools
         - [**Bitcoin Background - Economic Multiverses**](https://github.com/VagabondsExplorer/Resources/blob/main/BACKGROUNDECO.html)
     - [**Dimension tunnel**]
       - [**Soft Color Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelFlatDesign.html)  
-          *Hypnotic pastel tunnel with fluid Canvas animations*
+          *Hypnotic pastel tunnel with fluid animations*
       - [**Psychedelic Hyperspace Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelwebgl.html)  
           *WebGL interdimensional journey with glitch effects*
       - [**Psychedelic Pixel Art Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelPixelArt.html)  
