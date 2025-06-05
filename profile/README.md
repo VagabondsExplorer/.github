@@ -62,8 +62,8 @@ Discover the power of collaboration, learn to leverage free and innovative tools
         - [**AI games**](https://github.com/VagabondsExplorer/Resources/)
  - **AI art** 
     - [**Bitcoin vision**]
-        - [**Quantum Bitcoin Cockpit**]([https://github.com/VagabondsExplorer/Resources/blob/main/BACKGROUNDcockpit.html])
-        - [**Bitcoin Background - Economic Multiverses**]([https://github.com/VagabondsExplorer/Resources/blob/main/BACKGROUNDECO.html])
+        - [**Quantum Bitcoin Cockpit**](https://github.com/VagabondsExplorer/Resources/blob/main/BACKGROUNDcockpit.html)
+        - [**Bitcoin Background - Economic Multiverses**](https://github.com/VagabondsExplorer/Resources/blob/main/BACKGROUNDECO.html)
     - [**Dimension tunnel**]
       - [**Soft Color Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelFlatDesign.html)  
           *Hypnotic pastel tunnel with fluid Canvas animations*
@@ -75,12 +75,6 @@ Discover the power of collaboration, learn to leverage free and innovative tools
           *3D isometric cube tunnel with dynamic lighting*
       - [**Psychedelic Hyperspace Tunnel**](https://github.com/VagabondsExplorer/Resources/blob/main/tunelLineArt.html)  
           *Minimalist line-art tunnel with high contrast*
-     
-        - tunelFlatDesign.html
-    ├── tunelwebgl.html
-    ├── tunelPixelArt.html
-    ├── tunelIsometric.html
-    └── tunelLineArt.html
           
 
 ## 🤝 Blog and Events
